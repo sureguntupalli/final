@@ -6,7 +6,7 @@
 
   <groupId>org.demo.market</groupId>
   <artifactId>final</artifactId>
-  <version>1.0</version>
+  <version>1.1</version>
 
   <name>final</name>
   <!-- FIXME change it to the project's website -->
@@ -20,6 +20,7 @@
   <distributionManagement>
    <repository>
       <id>releases</id>
+      <name>Releases</name>
       <url>http://localhost:8081/nexus/content/repositories/releases/</url>
    </repository>
    <snapshotRepository>
